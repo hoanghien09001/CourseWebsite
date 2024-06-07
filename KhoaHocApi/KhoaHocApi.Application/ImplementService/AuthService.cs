@@ -50,7 +50,7 @@ namespace KhoaHocApi.Application.ImplementService
             _contextAccessor = contextAccessor;
         }
 
-        public async Task<ResponseObject<DataResponseUser>> Register(Request_CreateBlog request)
+        public async Task<ResponseObject<DataResponseUser>> Register(Request_Register request)
         {
             try
             {

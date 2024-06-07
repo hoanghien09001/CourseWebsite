@@ -24,7 +24,7 @@ namespace KhoaHocApi.Controllers
             _userService = userService;
         }
         [HttpPost]
-        public async Task<IActionResult> Register([FromBody] Request_CreateBlog request)
+        public async Task<IActionResult> Register([FromBody] Request_Register request)
         {
             return Ok(await _authService.Register(request));
         }

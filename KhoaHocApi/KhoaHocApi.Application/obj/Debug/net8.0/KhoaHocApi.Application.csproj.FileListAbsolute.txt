@@ -85,3 +85,21 @@ F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\Kh
 F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\ref\KhoaHocApi.Application.dll
 F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
 F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Application.deps.json
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Application.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Application.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.AssemblyInfo.cs
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.sourcelink.json
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocA.220E2B1C.Up2Date
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\refint\KhoaHocApi.Application.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\KhoaHocApi.Application.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Application\obj\Debug\net8.0\ref\KhoaHocApi.Application.dll

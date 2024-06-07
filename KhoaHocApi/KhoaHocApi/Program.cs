@@ -76,6 +76,7 @@ builder.Services.AddScoped<IBaseRepository<Certificate>, BaseRepository<Certific
 builder.Services.AddScoped<CertificateConverter>();
 builder.Services.AddScoped<CertificateTypeConverter>();
 builder.Services.AddScoped<ICertificateRepository, CertificateRepository>();
+builder.Services.AddScoped<TeacherConverter>();
 
 
 //Course

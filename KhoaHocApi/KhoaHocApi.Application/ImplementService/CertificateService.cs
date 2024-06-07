@@ -29,6 +29,7 @@ namespace KhoaHocApi.Application.ImplementService
         private readonly IHttpContextAccessor _httpContextAccessor;
         private readonly IUserRepository _userRepository;
         private readonly UserConverter _userConverter;
+        private readonly TeacherConverter _teacherConverter;
 
         public CertificateService(IBaseRepository<Certificate> baseCertificateRepository,
             IBaseRepository<CertificateType> baseCertificateTypeRepository,
@@ -37,7 +38,8 @@ namespace KhoaHocApi.Application.ImplementService
             IHttpContextAccessor httpContextAccessor,
             IBaseRepository<User> baseUserRepository,
             IUserRepository userRepository,
-            UserConverter userConverter)
+            UserConverter userConverter,
+            TeacherConverter teacherConverter)
         {
             _baseCertificateRepository = baseCertificateRepository;
             _baseCertificateTypeRepository = baseCertificateTypeRepository;
@@ -47,6 +49,7 @@ namespace KhoaHocApi.Application.ImplementService
             _baseUserRepository = baseUserRepository;
             _userRepository = userRepository;
             _userConverter = userConverter;
+            _teacherConverter = teacherConverter;
         }
 
         public async Task<IQueryable<CertificateType>> GetAllCertificateType()
@@ -55,11 +58,11 @@ namespace KhoaHocApi.Application.ImplementService
             return certificateTypeList ?? Enumerable.Empty<CertificateType>().AsQueryable();
         }
 
-        public async Task<IQueryable<DataResponseUser>> GetUserHaveCert()
+        public async Task<IQueryable<DataResponseTeacher>> GetUserHaveCert()
         {
             var listUser = await _userRepository.GetUserHaveCertificate();
-            var listResponseUser = listUser.Select(x => _userConverter.EntityToDTO(x));
-            return listResponseUser  ?? Enumerable.Empty<DataResponseUser>().AsQueryable();
+            var listResponseUser = listUser.Select(x => _teacherConverter.EntityToDTO(x));
+            return listResponseUser  ?? Enumerable.Empty<DataResponseTeacher>().AsQueryable();
         }
 
         public async Task<IQueryable<Certificate>> GetAllCertificate()

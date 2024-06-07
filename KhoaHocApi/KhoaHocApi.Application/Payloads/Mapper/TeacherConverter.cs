@@ -8,23 +8,25 @@ using System.Threading.Tasks;
 
 namespace KhoaHocApi.Application.Payloads.Mapper
 {
-    public class UserConverter
+    public class TeacherConverter
     {
-        public DataResponseUser EntityToDTO(User user)
+        public DataResponseTeacher EntityToDTO(User user)
         {
-            
-            return new DataResponseUser()
+
+            return new DataResponseTeacher()
             {
                 Address = user.Address,
                 Avatar = user.Avatar,
                 CreateTime = user.CreateTime,
-                DateOfBirth = user.DateOfBirth,
+                DateOfBirth = user.DateOfBirth.Value.Date,
                 Email = user.Email,
                 Fullname = user.Fullname,
                 Id = user.Id,
                 PhoneNumber = user.PhoneNumber,
                 Status = user.Status.ToString(),
                 UpdateTime = user.UpdateTime,
+                CertificateId = user.CertificateId,
+                Certificate = user.Certificate,
             };
         }
     }

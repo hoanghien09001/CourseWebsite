@@ -12,7 +12,7 @@ namespace KhoaHocApi.Application.InterfaceService
 {
     public interface IAuthService
     {
-        Task<ResponseObject<DataResponseUser>> Register(Request_CreateBlog request);
+        Task<ResponseObject<DataResponseUser>> Register(Request_Register request);
         Task<string> ConfirmRegisterAccount(string confirmCode);
         Task<ResponseObject<DataResponseLogin>> GetJwtTokenAsync(User user);
         Task<ResponseObject<DataResponseLogin>> Login(Request_Login request);

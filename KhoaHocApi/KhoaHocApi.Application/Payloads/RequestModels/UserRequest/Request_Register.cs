@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace KhoaHocApi.Application.Payloads.RequestModels.UserRequest
 {
-    public class Request_CreateBlog
+    public class Request_Register
     {
         [Required(ErrorMessage = "Username is required")]
         public string Username { get; set; }

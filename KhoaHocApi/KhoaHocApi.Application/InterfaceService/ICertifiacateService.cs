@@ -15,7 +15,7 @@ namespace KhoaHocApi.Application.InterfaceService
     public interface ICertifiacateService
     {
         Task<IQueryable<CertificateType>> GetAllCertificateType();
-        Task<IQueryable<DataResponseUser>> GetUserHaveCert();
+        Task<IQueryable<DataResponseTeacher>> GetUserHaveCert();
         Task<ResponseObject<DataResponseCertificateType>> AddCertificateType(Request_CertificateType request);
         Task<ResponseObject<DataResponseCertificateType>> UpdateCertificateType(long id, Request_CertificateType request);
         Task<ResponseObject<DataResponseCertificateType>> DeleteCertificateType(long id);
