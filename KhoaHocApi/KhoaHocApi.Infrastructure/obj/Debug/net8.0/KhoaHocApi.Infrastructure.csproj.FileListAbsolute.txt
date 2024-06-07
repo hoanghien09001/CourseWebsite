@@ -1,0 +1,87 @@
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.deps.json
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.runtimeconfig.json
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.AssemblyReference.cache
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfoInputs.cache
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfo.cs
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocA.8E8730EE.Up2Date
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\refint\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.genruntimeconfig.cache
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\ref\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\BackEnd\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.sourcelink.json
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.deps.json
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.runtimeconfig.json
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\refint\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\KhoaHoc-HoangHien (1)\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\ref\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.deps.json
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.runtimeconfig.json
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.sourcelink.json
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\refint\KhoaHocApi.Infrastructure.dll
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\KhoaHoc\KhoaHoc-HoangHien\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\ref\KhoaHocApi.Infrastructure.dll
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.deps.json
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.runtimeconfig.json
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.AssemblyReference.cache
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfoInputs.cache
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfo.cs
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CoreCompileInputs.cache
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CopyComplete
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\refint\KhoaHocApi.Infrastructure.dll
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.genruntimeconfig.cache
+F:\LTS Academy\Front-end\VueJs\TTT5.2\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\ref\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.deps.json
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.runtimeconfig.json
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.AssemblyReference.cache
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfoInputs.cache
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.AssemblyInfo.cs
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocA.8E8730EE.Up2Date
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\refint\KhoaHocApi.Infrastructure.dll
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.pdb
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\KhoaHocApi.Infrastructure.genruntimeconfig.cache
+F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Infrastructure\obj\Debug\net8.0\ref\KhoaHocApi.Infrastructure.dll
