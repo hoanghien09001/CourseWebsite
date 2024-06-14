@@ -3,7 +3,9 @@
     <div class="row">
       <div class="col-2">
         <div class="avatar">
-          <v-avatar color="surface-variant" size="80"><img :src="user.avatar" width="120px" alt="" /></v-avatar>
+          <v-avatar color="surface-variant" size="80"
+            ><img :src="user.avatar" width="120px" alt=""
+          /></v-avatar>
           <p>
             <strong>username</strong>
           </p>
@@ -14,7 +16,7 @@
             <span>Hồ sơ</span>
           </router-link>
 
-          <router-link :to="'/'">
+          <router-link :to="{ name: 'ShoppingCart' }">
             <span>Giỏ hàng</span>
           </router-link>
 
@@ -22,7 +24,7 @@
             <span>Khóa học của bạn</span>
           </router-link>
 
-          <router-link :to="{name: 'ChangePassword'}">
+          <router-link :to="{ name: 'ChangePassword' }">
             <span>Bảo mật tài khoản</span>
           </router-link>
 
@@ -44,14 +46,14 @@
 </template>
 <script>
 import authServices from "@/services/auth.services";
-import {userApi} from "@/services/userApi";
+import { userApi } from "@/services/userApi";
 
-export default{
+export default {
   data() {
     return {
       userApi: userApi(),
-      user: {}
-    }
+      user: {},
+    };
   },
   async mounted() {
     const userInfo = JSON.parse(localStorage.getItem("user"));
@@ -65,7 +67,7 @@ export default{
       this.$store.dispatch("auth/logout");
     },
   },
-}
+};
 </script>
 <style scoped>
 .col-2,

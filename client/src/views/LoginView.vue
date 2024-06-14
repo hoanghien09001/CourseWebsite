@@ -10,7 +10,7 @@
 
       <input
         type="text"
-        placeholder="Email"
+        placeholder="Tên đăng nhập"
         v-model="user.userName"
         autocomplete="off"
       />

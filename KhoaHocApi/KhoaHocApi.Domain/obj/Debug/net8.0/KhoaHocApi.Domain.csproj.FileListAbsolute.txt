@@ -55,3 +55,15 @@ F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\Kh
 F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\refint\KhoaHocApi.Domain.dll
 F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.pdb
 F:\Leo\Thực tập\Khóa học\FrontEnd\KhoaHoc-main\KhoaHoc-main\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\ref\KhoaHocApi.Domain.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\bin\Debug\net8.0\KhoaHocApi.Domain.deps.json
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\bin\Debug\net8.0\KhoaHocApi.Domain.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\bin\Debug\net8.0\KhoaHocApi.Domain.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.AssemblyInfo.cs
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.sourcelink.json
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\refint\KhoaHocApi.Domain.dll
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\KhoaHocApi.Domain.pdb
+C:\Users\ACER\Desktop\CourseWebsite\KhoaHocApi\KhoaHocApi.Domain\obj\Debug\net8.0\ref\KhoaHocApi.Domain.dll

@@ -60,7 +60,9 @@
 
         <!-- giỏ hàng -->
         <button v-if="isLoggedIn" class="btn">
+          <router-link :to="{ name: 'ShoppingCart' }">
           <font-awesome-icon class="d-block" :icon="['fas', 'cart-shopping']" />
+          </router-link>
         </button>
 
         <!-- thông báo -->

@@ -208,5 +208,17 @@ namespace KhoaHocApi.Application.ImplementService
                 };
             }
         }
+
+        public async Task<ResponseObject<IEnumerable<DataResponseCourse>>> GetAllCourse()
+        {
+            var listCourse = await _baseCourseRepository.GetAllAsync();
+            var listCourseDTO = listCourse.Select(x=>_courseConverter.EntityDTO(x));
+            return new ResponseObject<IEnumerable<DataResponseCourse>>()
+            {
+                Status = StatusCodes.Status200OK,
+                Message = "Lấy danh sách khóa học thành công",
+                Data = listCourseDTO.AsEnumerable(),
+            };
+        }
     }
 }

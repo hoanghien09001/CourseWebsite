@@ -18,6 +18,6 @@ namespace KhoaHocApi.Application.InterfaceService
         Task<ResponseObject<DataResponseCourse>> UpdateCourse(long id, Request_Course request);
         Task<ResponseObject<DataResponseCourse>> DeleteCourse(long id);
         Task<ResponseObject<IEnumerable<DataResponseCourse>>> GetAllCourseByTeacher();
-
+        Task<ResponseObject<IEnumerable<DataResponseCourse>>> GetAllCourse();
     }
 }

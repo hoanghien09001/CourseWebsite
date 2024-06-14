@@ -122,6 +122,7 @@
 
       <div class="tab-content" id="pills-tabContent">
         <div class="tab-pane fade show active" id="pills-home" role="tabpanel">
+          <div></div>
           <div class="detail-list-course">
             <h5><strong> Nâng cao phát triển phần mềm với Python </strong></h5>
             <button class="btn btn-outline-secondary">Khám phá Python</button>
@@ -137,7 +138,108 @@
         </div>
       </div>
     </div>
+    <!-- Chọn khóa học -->
+    <div class="container my-5 list-course">
+      <div class="text-h6"><strong>Được đề xuất cho bạn</strong></div>
 
+      <v-row>
+        <v-slide-group>
+          <v-slide-group-item
+            v-for="(course, courseIndex) in listCourse"
+            :key="courseIndex"
+            cols="12"
+            md="3"
+          >
+            <v-col>
+              <v-menu
+                v-model="menu[course.courseId]"
+                open-on-hover
+                :close-on-content-click="false"
+                location="end"
+              >
+                <template v-slot:activator="{ on, props }">
+                  <v-card
+                    class="mx-auto"
+                    max-width="344"
+                    hover
+                    v-on="on"
+                    v-bind="props"
+                  >
+                    <v-card-item>
+                      <v-card-title>
+                        <v-img
+                          :width="250"
+                          :height="150"
+                          aspect-ratio="16/9"
+                          cover
+                          :src="course.imageCourse"
+                        ></v-img>
+                        <!-- <img :src="course.imageCourse" alt="" /> -->
+                        <div>
+                          <strong>{{ course.courseName }}</strong>
+                        </div>
+                      </v-card-title>
+
+                      <v-card-subtitle> {{ course.userName }} </v-card-subtitle>
+                    </v-card-item>
+
+                    <v-card-text>
+                      <div>
+                        <span>4,5</span>
+                        <font-awesome-icon icon="star" />
+                      </div>
+                      <div>{{ course.price }} đ</div>
+                    </v-card-text>
+                  </v-card>
+                </template>
+
+                <v-card min-width="300">
+                  <v-list>
+                    <v-list-item
+                      :subtitle="course.totalCourseDuration"
+                      :title="course.courseName"
+                    >
+                      <template v-slot:append>
+                        <v-btn
+                          :class="fav ? 'text-red' : ''"
+                          icon="mdi-heart"
+                          variant="text"
+                          @click="fav = !fav"
+                        ></v-btn>
+                      </template>
+                    </v-list-item>
+                  </v-list>
+
+                  <v-divider></v-divider>
+
+                  <v-list>
+                    <v-list-item> {{ course.introduce }} </v-list-item>
+                  </v-list>
+
+                  <v-card-actions>
+                    <v-spacer></v-spacer>
+
+                    <v-btn
+                      variant="text"
+                      @click="menu[course.courseId] = false"
+                    >
+                      Cancel
+                    </v-btn>
+                    <v-btn
+                      color="primary"
+                      variant="text"
+                      @click="menu[course.courseId] = false"
+                    >
+                      Thêm vào giỏ hàng
+                    </v-btn>
+                  </v-card-actions>
+                </v-card>
+              </v-menu>
+            </v-col>
+          </v-slide-group-item>
+        </v-slide-group>
+      </v-row>
+    </div>
     <!-- quảng cáo -->
     <div class="container mt-5">
       <div class="advertise">
@@ -216,13 +318,35 @@
 </template>
 
 <script>
+import { ref } from "vue";
+import { courseApi } from "@/services/courseApi";
+
+const variants = ["elevated", "flat", "tonal", "outlined"];
+const color = ref("indigo");
 export default {
   beforeRouteLeave(to, from, next) {
     window.scrollTo(0, 0);
     next();
   },
   data() {
-    return {};
+    return {
+      fav: true,
+      menu: {},
+      message: false,
+      hints: false,
+      courseApi: courseApi(),
+      listCourse: {},
+    };
+  },
+  async mounted() {
+    const res = await this.courseApi.GetAllCourse();
+    this.listCourse = res.data.data;
+    console.log(this.listCourse);
+  },
+  methods: {
+    handleHover(e) {
+      console.log(e);
+    },
   },
 };
 </script>

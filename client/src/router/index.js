@@ -69,7 +69,12 @@ const routes = [
                 path: 'edit/password',
                 name: 'ChangePassword',
                 component: ThePassword
-            }
+            },
+            {
+                path: "/cart",
+                name: "ShoppingCart",
+                component: CartView
+            },
 
         ]
     },
@@ -88,11 +93,7 @@ const routes = [
         name: "ConfirmNewPassword",
         component: ConfirmCreateNewPasswordView
     },
-    {
-        path: "/cart",
-        Name: "ShoppingCart",
-        component: CartView
-    },
+    
     {
         path: "/learning/:courseId",
         Name: "LearningView",

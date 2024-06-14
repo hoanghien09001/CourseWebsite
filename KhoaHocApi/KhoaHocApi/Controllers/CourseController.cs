@@ -1,6 +1,8 @@
 ﻿using KhoaHocApi.Application.ImplementService;
 using KhoaHocApi.Application.InterfaceService;
 using KhoaHocApi.Application.Payloads.RequestModels.CourseRequest;
+using KhoaHocApi.Application.Payloads.Response;
+using KhoaHocApi.Application.Payloads.ResponseModel.DataCourse;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
@@ -50,5 +52,11 @@ namespace KhoaHocApi.Controllers
         {
             return Ok(await _courseService.GetAllCourseByTeacher());
         }
+        [HttpGet("get-all-course")]
+        public async Task<IActionResult> GetAllCourse()
+        {
+            return Ok(await _courseService.GetAllCourse());
+        }
+
     }
 }

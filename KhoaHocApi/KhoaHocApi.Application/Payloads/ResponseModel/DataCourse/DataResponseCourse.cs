@@ -15,6 +15,7 @@ namespace KhoaHocApi.Application.Payloads.ResponseModel.DataCourse
         public string Code { get; set; }
         public double Price { get; set; }
         public long UserId { get; set; }
+        public string UserName { get; set; }
         public int TotalCourseDuration { get; set; }
         public int NumberOfStudent { get; set; }
         public int NumberOfPurchases { get; set; }

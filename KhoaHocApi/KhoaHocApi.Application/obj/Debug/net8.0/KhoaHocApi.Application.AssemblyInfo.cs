@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KhoaHocApi.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5af4a96c2d43f307e65c080a2e291b43b802ca63")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bb32dee968e20316f34e3378bec81f07d852701")]
 [assembly: System.Reflection.AssemblyProductAttribute("KhoaHocApi.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KhoaHocApi.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

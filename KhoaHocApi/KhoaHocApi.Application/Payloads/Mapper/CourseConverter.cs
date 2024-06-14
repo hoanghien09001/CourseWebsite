@@ -1,5 +1,6 @@
 ﻿using KhoaHocApi.Application.Payloads.ResponseModel.DataCourse;
 using KhoaHocApi.Domain.Entities;
+using KhoaHocApi.Domain.InterfaceRepositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,8 +11,16 @@ namespace KhoaHocApi.Application.Payloads.Mapper
 {
     public class CourseConverter
     {
+        private readonly IBaseRepository<User> _userBaseRepository;
+
+        public CourseConverter(IBaseRepository<User> userBaseRepository)
+        {
+            _userBaseRepository = userBaseRepository;
+        }
+
         public DataResponseCourse EntityDTO(Course course)
         {
+            var user =  _userBaseRepository.GetByIdAsync(course.UserId).Result;
             return new DataResponseCourse()
             {
                 CourseName = course.CourseName,
@@ -24,6 +33,7 @@ namespace KhoaHocApi.Application.Payloads.Mapper
                 NumberOfStudent = course.NumberOfStudent,
                 TotalCourseDuration = course.TotalCourseDuration,
                 CourseId = course.Id,
+                UserName = user.Fullname,
             };
         }
     }

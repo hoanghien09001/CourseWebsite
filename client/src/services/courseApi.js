@@ -26,12 +26,20 @@ export const courseApi = defineStore("courseApi", {
       });
     },
     GetAllSubjectDetailBySubjectId(subjectId) {
-        return new Promise((resolve, reject) => {
-          axios
-            .get(`/Subject/get-all-subjectdetails/${subjectId}`)
-            .then((res) => resolve(res))
-            .catch((err) => reject(err));
-        });
-      },
+      return new Promise((resolve, reject) => {
+        axios
+          .get(`/Subject/get-all-subjectdetails/${subjectId}`)
+          .then((res) => resolve(res))
+          .catch((err) => reject(err));
+      });
+    },
+    GetAllCourse(){
+      return new Promise((resolve, reject) => {
+        axios
+         .get(`/Course/get-all-course`)
+         .then((res) => resolve(res))
+         .catch((err) => reject(err));
+      });
+    }
   },
 });

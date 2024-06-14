@@ -83,6 +83,7 @@ export default {
   },
   mounted() {
     certificateService.getAllCertificateType().then((res) => {
+      console.log(res);
       this.certType = res.data.map((cert) => cert.name);
     });
 
